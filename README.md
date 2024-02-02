@@ -11,6 +11,9 @@
 [![Platform](https://img.shields.io/cocoapods/p/RxBluetoothKit.svg?style=flat)](http://cocoapods.org/pods/RxBluetoothKit)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
+## !!! Copy of last version of i-mobility/RxBluetoothKit !!!
+Original repository was located here https://github.com/i-mobility/RxBluetoothKit. It was deleted and I don't know why.
+
 RxBluetoothKit is a Bluetooth library that makes interaction with BLE devices much more pleasant. It's backed by RxSwift and CoreBluetooth and it provides nice API, for both Central and Peripheral modes. All to work with and make your code more readable, reliable and easier to maintain. 
 
 Here is a sneak peek of what you can do with RxBluetoothKit:
